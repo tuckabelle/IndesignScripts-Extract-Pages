@@ -2,8 +2,10 @@
 This script initiates a palette that extracts pages from a document and saves them as new, separate files in the location chosen by the user. The user can name the files either via GREP or individually.
 The original document remains the same.
 
-Author: Tucker Harris
-https://github.com/tuckabelle/IndesignScripts-Extract-Pages/new/indesign-extractPages.js
+// DESCRIPTION: Extract and name pages from a document in Indesign
+// Copyright 2016, Tucker Harris
+// Written by Tucker Harris
+// github.com/tuckabelle
 */
 
 #targetengine "session";
